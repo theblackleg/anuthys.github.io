@@ -1,0 +1,8 @@
+*.DS_Store
+Icon
+._*
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+*~
